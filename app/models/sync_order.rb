@@ -1,0 +1,2 @@
+class SyncOrder < ApplicationRecord
+end

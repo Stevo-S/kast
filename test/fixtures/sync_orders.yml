@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: MyString
+  user_type: 1
+  product_id: MyString
+  service_id: MyString
+  services_list: MyString
+  update_type: 1
+  update_description: MyString
+  update_time: 2016-10-20 20:22:40
+  effective_time: 2016-10-20 20:22:40
+  expiry_time: 2016-10-20 20:22:40
+  transaction_id: MyString
+  order_key: MyString
+  mdspsubexpmode: 1
+  object_type: 1
+  rent_success: false
+
+two:
+  user_id: MyString
+  user_type: 1
+  product_id: MyString
+  service_id: MyString
+  services_list: MyString
+  update_type: 1
+  update_description: MyString
+  update_time: 2016-10-20 20:22:40
+  effective_time: 2016-10-20 20:22:40
+  expiry_time: 2016-10-20 20:22:40
+  transaction_id: MyString
+  order_key: MyString
+  mdspsubexpmode: 1
+  object_type: 1
+  rent_success: false
